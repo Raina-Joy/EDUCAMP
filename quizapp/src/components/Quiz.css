@@ -1,0 +1,28 @@
+.dashboard-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .quiz-container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+  }
+  
+  .option-button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .selected {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
